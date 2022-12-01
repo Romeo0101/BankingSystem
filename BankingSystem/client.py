@@ -10,7 +10,6 @@ class Client:
         self.password = client_info["password"]
         self.savings = client_info["savings"]
     
-
     def setSavings(self):
         self.savings = 0
     
