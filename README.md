@@ -1,2 +1,2 @@
-`#0969DA`## Banking System (CLI)
+## Banking System (CLI)
 
