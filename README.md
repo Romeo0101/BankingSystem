@@ -10,10 +10,6 @@ The users can update their accounts, where they can deposit and withdraw their s
 # Built-in Modules 
 
 The following are used:
-
-- playsound
-- getpass
-- colorama
 - os
 - time
 - sys
