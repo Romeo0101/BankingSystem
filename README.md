@@ -7,6 +7,24 @@ The users can update their accounts, where they can deposit and withdraw their s
 ![Logo](https://i.imgur.com/9yllaec.png)
 
 
+# Built-in Modules 
+
+The following are used:
+
+- playsound
+- getpass
+- colorama
+- os
+- time
+- sys
+
+# Customized Modules
+- banner
+- file_handling
+- client
+- database_handling
+
+
 ## Authors
 
 - [@JA](https://github.com/JAhispano24)
