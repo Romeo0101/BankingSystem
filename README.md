@@ -24,6 +24,10 @@ The following are used:
 - client
 - database_handling
 
+# Note
+
+- To run the program access terminal and activate virtual environment.
+
 
 ## Authors
 
