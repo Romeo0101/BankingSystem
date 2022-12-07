@@ -9,7 +9,7 @@ The users can update their accounts, where they can deposit and withdraw their s
 
 ## Authors
 
-- [@oJA](https://github.com/JAhispano24)
+- [@JA](https://github.com/JAhispano24)
 - [@Angela](https://github.com/gela0514)
 - [@Khim](https://github.com/KIMJASA)
 - [@Romeo](https://github.com/Romeo0101)
