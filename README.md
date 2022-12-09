@@ -1,6 +1,6 @@
 # Banking System ( CLI )
 
-![image](https://lh3.google.com/u/0/d/1savnmB0CEcILdTCLoSY25YL_jE1bOqeC=w1365-h624-iv1)
+![image](https://lh3.google.com/u/0/d/1savnmB0CEcILdTCLoSY25YL_jE1bOqeC=w785-h610-iv1)
 
 A simple Python command-line application that performs CRUD operations.
 The users can update their accounts, where they can deposit and withdraw their savings. It is also capable of opening another account and deleting it. At the same time, it also has a database that stores its information. This banking system's primary function is Create-Read-Update-Delete.
