@@ -19,6 +19,19 @@ The following are used:
 - client
 - database_handling
 
+# Self Assessment
+
+- Code Reusability   - 3/4
+- Maintainability    - 3/4
+- Scalability        - 3/4
+- Execution          - 3/4
+- Originality        - 3/4
+- Overall Impression - 3/4
+- Total = 18/24
+
+# Youtube Link
+
+https://www.youtube.com/watch?v=VMMDFIOgcxY
 
 ##  Unified Modeling Language (UML)
 
